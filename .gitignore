@@ -1,0 +1,6 @@
+# editor files
+.idea
+*.iml
+
+# python script
+*.py
