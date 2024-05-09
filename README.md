@@ -26,3 +26,6 @@ A VRP solution contains a list of drivers, each of which has an ordered list of 
 
 ### What is the basis for this solution?
 It was inspired by the 'Nearest Neighbor' solution explained here: https://iopscience.iop.org/article/10.1088/1742-6596/2421/1/012027/pdf
+
+### Evaluation
+![Screen Shot 2024-05-09 at 11 10 01 AM](https://github.com/tambornino/vehicle-routing-problem/assets/87380463/b7a771a4-00cf-4126-9097-166e723646ab)
